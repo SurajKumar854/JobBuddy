@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "514553995710",
+    "project_id": "jobbuddy-ad962",
+    "storage_bucket": "jobbuddy-ad962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514553995710:android:a63dd80a3723ab208019ef",
+        "android_client_info": {
+          "package_name": "com.sampple.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514553995710-t74h778go06ntet1mnhkvms18vbd89dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sampple.myapplication",
+            "certificate_hash": "3a4a1d17d9a1a44109c32483b143affb0ea55e52"
+          }
+        },
+        {
+          "client_id": "514553995710-737kss6uc8ne1465k1fs2hnv09nie4d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4bbbXwUXw2Mr3r5UIVu2TKvaOrctPZTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514553995710-737kss6uc8ne1465k1fs2hnv09nie4d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
